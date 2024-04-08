@@ -1,5 +1,3 @@
-
-
 <!--
 **InnocenzoMerola/InnocenzoMerola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,11 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <img height="400" width="100%" src="/assets/Black Blue Pink Technology Geometric Desktop Wallpaper.png"  />
+  <img height="400" width="100%" src="/assets/Testo del paragrafo.png"  />
 </div>
 
 ###
+
 ### <h1 align="center">Hi there 👋</h1>
+
 ###
 
 <h4 align="center">My name is Innocenzo and I'm a Full Stack Web Developer. I'm from Italy, living in Maddaloni.</h4>
@@ -28,8 +28,6 @@ Here are some ideas to get you started:
 
 - 🌱 I'm actually a student in Epicode, learning "Full-Stack Developer at EPICODE school"
 - 📫 Contact me **enzomerola02@gmail.com**
-
-
 
 <h3 align="left">Technologies & Tools</h3>
 
@@ -42,7 +40,6 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
 </p>
 
-
 <h3 align="left">You can find me on:</h3>
 
 ###
@@ -51,7 +48,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/InnocenzoMerola" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:enzomerola02@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-
 
 ###
 
