@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="left">
-  <img height="200" src="/assets/Black Blue Pink Technology Geometric Desktop Wallpaper.png"  />
+<div align="center">
+  <img height="200" width="100" src="/assets/Black Blue Pink Technology Geometric Desktop Wallpaper.png"  />
 </div>
 
 ###
