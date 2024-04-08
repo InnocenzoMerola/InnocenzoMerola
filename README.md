@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </div>
 
 ###
-### Hi there 👋
+### <h1 align="center">Hi there 👋</h1>
 ###
 
 <h4 align="center">My name is Innocenzo and I'm a Full Stack Web Developer. I'm from Italy, living in Maddaloni.</h4>
