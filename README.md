@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 ###
 
-<h6 align="left">You can find me on:</h6>
+<h5 align="left">You can find me on:</h5>
 
 ###
 
@@ -60,3 +60,5 @@ Here are some ideas to get you started:
 </div>
 
 ###
+
+<h3>My Stats</h3>
