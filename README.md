@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">My name is Innocenzo Merola and I'm a Full Stack Web Developer. I'm from Italy, living in Maddaloni. You can find me on</p>
+<p align="left">My name is Innocenzo Merola and I'm a Full Stack Web Developer. I'm from Italy, living in Maddaloni.</p>
 
 ###
 
