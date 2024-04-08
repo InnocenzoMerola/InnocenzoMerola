@@ -27,11 +27,10 @@ Here are some ideas to get you started:
 ###
 
 <p>🌱 I'm actually a student in Epicode, learning "Full-Stack Developer at EPICODE school"</p>
-<p>Contact me on enzomerola02@gmail.com</p>
+<p>📫 Contact me on enzomerola02@gmail.com</p>
 
 <h3 align="left">Technologies & Tools</h3>
 
-###
   <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/typescript-original.svg" alt="Typescript" width="40" height="40"/>
@@ -48,10 +47,6 @@ Here are some ideas to get you started:
 
 <div> <a href="https://www.linkedin.com/in/Innocenzo Merola" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/InnocenzoMerola" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-
-<p align="left">
-<a href="https://linkedin.com/in/Innocenzo Merola" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="Innocenzo Merola" height="30" width="40" /></a></p>
-
 
 
 
