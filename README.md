@@ -20,10 +20,6 @@ Here are some ideas to get you started:
 
 ###
 
-<h2 align="left">Hello folks!!</h2>
-
-###
-
 <p align="left">My name is Innocenzo Merola and I'm a Full Stack Web Developer. I'm from Italy, living in Maddaloni. You can find me on</p>
 
 ###
