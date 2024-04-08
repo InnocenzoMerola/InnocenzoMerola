@@ -65,7 +65,6 @@ Here are some ideas to get you started:
 ###
 
 <h3>My Stats</h3>
-<div> <a href="https://github.com/InnocenzoMerola" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InnocenzoMerola&layout=compact&theme=tokyonight" alt=InnocenzoMerola />
 
