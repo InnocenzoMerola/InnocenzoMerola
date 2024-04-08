@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **InnocenzoMerola/InnocenzoMerola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,6 +18,8 @@ Here are some ideas to get you started:
   <img height="400" width="100%" src="/assets/Black Blue Pink Technology Geometric Desktop Wallpaper.png"  />
 </div>
 
+###
+### Hi there 👋
 ###
 
 <h4 align="center">My name is Innocenzo and I'm a Full Stack Web Developer. I'm from Italy, living in Maddaloni.</h4>
