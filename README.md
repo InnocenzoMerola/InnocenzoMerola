@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p>I'm actually a student in Epicode, learning "Full-Stack Developer at EPICODE school"</p>
+<p>🌱 I'm actually a student in Epicode, learning "Full-Stack Developer at EPICODE school"</p>
 
 <h3 align="left">Technologies & Tools</h3>
 
