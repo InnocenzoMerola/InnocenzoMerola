@@ -20,9 +20,11 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">My name is Innocenzo Merola and I'm a Full Stack Web Developer. I'm from Italy, living in Maddaloni.</p>
+<h4 align="left">My name is Innocenzo Merola and I'm a Full Stack Web Developer. I'm from Italy, living in Maddaloni.</h4>
 
 ###
+
+<p>I'm actually a student in Epicode, learning "Full-Stack Developer at EPICODE school"</p>
 
 <h3 align="left">Technologies & Tools</h3>
 
